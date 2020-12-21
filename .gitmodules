@@ -1,0 +1,3 @@
+[submodule "svutils"]
+	path = svutils
+	url = https://github.com/jykr/svutils.git
